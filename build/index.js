@@ -1,0 +1,1 @@
+!function(){"use strict";var e=window.wp.plugins,i=window.wp.data;(0,e.registerPlugin)("disable-welcome-guide",{render:function(){return(0,i.select)("core/edit-post").isFeatureActive("welcomeGuide")&&(0,i.dispatch)("core/edit-post").toggleFeature("welcomeGuide"),!0}})}();
