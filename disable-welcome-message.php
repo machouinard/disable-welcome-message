@@ -3,7 +3,7 @@
  * Plugin Name: Disable Block Editor Welcome Message
  * Description: Stop that awful "Welcome to the block editor" message from appearing.
  * Author: Mark Chouinard
- * Version: 1.0.0
+ * Version: 1.0.1
  */
 
 defined( 'ABSPATH' ) || die();
