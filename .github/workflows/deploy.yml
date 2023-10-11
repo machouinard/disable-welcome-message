@@ -35,4 +35,4 @@ jobs:
         RSYNC_FLAGS: '' #--dry-run
         EXCLUDES: bin/rsync-excludes.txt
         SSH_HOST: linode
-        DESTINATION: "/var/www/movies.chouinard.dev/public/wp-content/plugins/"
+        DESTINATION: "/var/www/movies.chouinard.dev/public/wp-content/plugins/disable-welcome-message"
