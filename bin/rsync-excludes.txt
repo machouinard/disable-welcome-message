@@ -1,0 +1,9 @@
+*.gitignore
+*.gitmodules
+*.git
+*.gitkeep
+*.github
+
+/bin
+
+*rsync-excludes.txt
